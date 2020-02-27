@@ -1,0 +1,29 @@
+{
+	"expo": {
+		"sdkVersion": "23.0.0",
+		"name": "Pocat",
+		"slug": "pocat",
+		"version": "1.5",
+		"icon": "https://s3.amazonaws.com/pokerbuddy/images/app_icon.png",
+		"primaryColor": "#bc0000",
+		"orientation": "portrait",
+		"ios": {
+			"bundleIdentifier": "com.hecodesthings.pocat",
+			"buildNumber": "5"
+		},
+		"android": {
+			"package": "com.hecodesthings.pocat",
+			"versionCode": 5
+		},
+		"scheme": "pocat",
+		"facebookScheme": "fb309462139518578",
+		"androidStatusBar": {
+			"barStyle": "light-content",
+			"backgroundColor": "#bc0000"
+		},
+		"splash": {
+			"image": "./assets/pocat_splash.png",
+			"backgroundColor": "#bc0000"
+		}
+	}
+}
