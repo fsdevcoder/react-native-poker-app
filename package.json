@@ -24,7 +24,7 @@
     "expo": "^23.0.0",
     "global": "^4.4.0",
     "pusher-js": "^4.1.0",
-    "qs": "^6.5.0",
+    "qs": "^6.9.7",
     "react": "16.0.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-23.0.0.tar.gz",
     "react-native-app-link": "^0.4.0",
